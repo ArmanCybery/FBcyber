@@ -1,3 +1,2 @@
-# Fb-hack
-Fb-hack
-MR.K7C8NG
+# FB HACK TOOL
+# maded by ARMAN_CYBERRY
