@@ -47,10 +47,9 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
+    print WW+"  |            MOD BY: ARMAN CYBERY             |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |        TELEGRAM: T.me/Ananymous_01          |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
@@ -174,7 +173,7 @@ def runn_noobs():
                   `.-::////::-.` \033[91;1m
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+             Powered by:\033[97m Arman CybeRRy
       """
 
 
